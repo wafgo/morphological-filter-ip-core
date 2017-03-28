@@ -1,7 +1,7 @@
 #
 open_project morphological-filter
 set_top morphological_filter
-add_files morphological_filter.cpp
+add_files mf.cpp
 add_files top.h
 add_files -tb image_utils.h
 add_files -tb opencv_top.cpp
